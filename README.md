@@ -1,0 +1,2 @@
+# Programming Assignments
+The focus of these assignments is to understand the exciting possible applications of convolutional neural networks - by using different models. These assignments are a part of the Deep Learning specialization on Coursera.
